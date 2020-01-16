@@ -1,18 +1,18 @@
 #XfceNotifyWindow {
-    background-color: rgba(14.9,16.5,21.6,0.96);
+    background-color: rgba(18.4,20.4,27.8,0.96);
     color: #635758;
-    text-shadow: 0px 1px alpha(#000000, 0.40),0 -1px alpha(#ffffff, 0.04),-1px  0px alpha(#ffffff, 0.04);
+    text-shadow: 0px 1px alpha(#2f3447, 0.40),0 -1px alpha(#ffffff, 0.04),-1px  0px alpha(#ffffff, 0.04);
     border: 1px solid;
-    border-color:#000000;
+    border-color:#2f3447;
     border-radius: 10px;
 }
 
 #XfceNotifyWindow button {
   color:#ffffff;
   border-radius: 4px;
-  border-color: #000000;;
-  background-image: linear-gradient(to bottom,#292d3e,#292d3e);
-  text-shadow: 0px 1px alpha(#000000, 0.40),0 -1px alpha(#ffffff, 0.04),-1px  0px alpha(#ffffff, 0.04);
+  border-color: #2f3447;;
+  background-image: linear-gradient(to bottom,#2f3447,#2f3447);
+  text-shadow: 0px 1px alpha(#2f3447, 0.40),0 -1px alpha(#ffffff, 0.04),-1px  0px alpha(#ffffff, 0.04);
 }
 
 #XfceNotifyWindow label#summary {
@@ -33,9 +33,9 @@
 
 #XfceNotifyWindow progressbar trough {
     background-image: linear-gradient(to bottom,
-                                      shade(#262a37, 0.65),
-                                      shade(#262a37, 1.25)
+                                      shade(#2f3447, 0.65),
+                                      shade(#2f3447, 1.25)
                                       );
-    border: 1px solid shade(#262a37, 0.2);
+    border: 1px solid shade(#2f3447, 0.2);
     border-radius: 3px;
     padding: 1px 0;}
