@@ -1,6 +1,6 @@
 #XfceNotifyWindow {
-    background-color: rgba(18.4,20.4,27.8,0.96);
-    color: #635758;
+    background-color: #2f3447;
+    color: #6c7495;
     text-shadow: 0px 1px alpha(#2f3447, 0.40),0 -1px alpha(#ffffff, 0.04),-1px  0px alpha(#ffffff, 0.04);
     border: 1px solid;
     border-color:#2f3447;
@@ -11,7 +11,7 @@
   color:#ffffff;
   border-radius: 4px;
   border-color: #2f3447;;
-  background-image: linear-gradient(to bottom,#2f3447,#2f3447);
+  background-image: linear-gradient(to bottom,#292d3e,#292d3e);
   text-shadow: 0px 1px alpha(#2f3447, 0.40),0 -1px alpha(#ffffff, 0.04),-1px  0px alpha(#ffffff, 0.04);
 }
 
@@ -26,7 +26,7 @@
 
 #XfceNotifyWindow progressbar progress {
     background-image: none;
-    background-color: #262a37;
+    background-color: #292d3e;
     border: none;
     box-shadow: none;
 }
