@@ -2,8 +2,8 @@ gtk-color-scheme = "selected_bg_color:##292d3e\nselected_fg_color:#ffffff"
 
 style "notify-window" {
   XfceNotifyWindow::summary-bold = 1
-  XfceNotifyWindow::border-color = "#000000"
-  XfceNotifyWindow::border-color-hover = "#000000"
+  XfceNotifyWindow::border-color = "#262a37"
+  XfceNotifyWindow::border-color-hover = "#262a37"
   XfceNotifyWindow::border-radius = 3.0
   XfceNotifyWindow::border-width = 1.0
   XfceNotifyWindow::border-width-hover = 1.0
